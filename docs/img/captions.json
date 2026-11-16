@@ -1,0 +1,72 @@
+{
+  "sunny.png": {
+    "alt": "A red cardinal perches on a window while sunbeams cross the desktop and a cat and ducks stand on the taskbar.",
+    "caption": "Sunbeams shine past a perched cardinal, a cat, and a line of ducks.",
+    "caption_es": "Los rayos de sol iluminan un cardenal posado, un gato y una fila de patos."
+  },
+  "rain.png": {
+    "alt": "Raindrops streak the windows as a brown duck and three yellow ducklings walk along the taskbar.",
+    "caption": "A duck and three ducklings walk beneath windows dotted with rain.",
+    "caption_es": "Un pato y tres patitos caminan bajo unas ventanas salpicadas de lluvia."
+  },
+  "fight.png": {
+    "alt": "A cartoon fight cloud with yellow stars and tails appears below a window at the taskbar.",
+    "caption": "The cat and dog fight in a cartoon dust cloud beside a window.",
+    "caption_es": "El gato y el perro se pelean en una nube de polvo de dibujos animados junto a una ventana."
+  },
+  "yuky.png": {
+    "alt": "A small black and tan dog carries a yellow-green tennis ball beneath a window at the taskbar.",
+    "caption": "Yuky carries a tennis ball along the taskbar.",
+    "caption_es": "Yuky lleva una pelota de tenis por la barra de tareas."
+  },
+  "night.png": {
+    "alt": "An alligator rests along the taskbar beside one glowing green firefly beneath a window.",
+    "caption": "An alligator shares the taskbar with a glowing firefly at night.",
+    "caption_es": "Un caim?n comparte la barra de tareas con una luci?rnaga luminosa por la noche."
+  },
+  "cranes.png": {
+    "alt": "A blue jay perches on a window above two tall cranes and a smaller brown bird on the taskbar.",
+    "caption": "A blue jay perches on a window while cranes stand on the taskbar below.",
+    "caption_es": "Un arrendajo azul se posa sobre una ventana mientras unas grullas est?n en la barra de tareas."
+  },
+  "climb.png": {
+    "alt": "A black and white cat sits on the top edge of a dark window above the taskbar.",
+    "caption": "A cat sits on top of a desktop window.",
+    "caption_es": "Un gato est? sentado sobre una ventana del escritorio."
+  },
+  "launch.png": {
+    "alt": "A small glowing rocket leaves a long curved trail from the taskbar across a light window.",
+    "caption": "A glowing rocket rises from the taskbar with a long curved trail.",
+    "caption_es": "Un cohete luminoso asciende desde la barra de tareas dejando una larga estela curva."
+  },
+  "widget-pill.png": {
+    "alt": "A light pill widget shows a partly cloudy icon, 75 degrees, a shortened song title, and GPU readings.",
+    "caption": "The compact pill shows weather, music, and GPU readings.",
+    "caption_es": "La barra compacta muestra el tiempo, la m?sica y los datos de la GPU."
+  },
+  "widget-weather.png": {
+    "alt": "A light weather panel shows 75 degrees Fahrenheit and an hourly forecast for Winter Garden, Florida, above a music section and the pill widget.",
+    "caption": "The weather panel shows partly cloudy conditions and an hourly forecast above the compact pill.",
+    "caption_es": "El panel del tiempo muestra un cielo parcialmente nublado y el pron?stico por horas sobre la barra compacta."
+  },
+  "widget-system.png": {
+    "alt": "A dark system panel shows GPU, CPU, memory, and network graphs above the pill widget.",
+    "caption": "The system panel displays GPU, CPU, memory, and network readings.",
+    "caption_es": "El panel del sistema muestra datos de la GPU, la CPU, la memoria y la red."
+  },
+  "widget-desk.png": {
+    "alt": "A light desktop panel shows animal action buttons, animal count choices, weather settings, and widget checkboxes above the pill widget.",
+    "caption": "The desktop panel offers animal actions, weather choices, and widget settings.",
+    "caption_es": "El panel del escritorio ofrece acciones de animales, opciones del tiempo y ajustes del widget."
+  },
+  "widget-media.png": {
+    "alt": "A dark media panel shows record artwork, a song title, playback buttons, and a GPU graph above the pill widget.",
+    "caption": "The media panel shows the current song, playback controls, and GPU readings.",
+    "caption_es": "El panel multimedia muestra la canci?n actual, los controles de reproducci?n y los datos de la GPU."
+  },
+  "hero.png": {
+    "alt": "A wide desktop scene shows sunbeams, a cardinal on a window, and a cat and ducks along the taskbar beneath two windows.",
+    "caption": "A cardinal, a cat, and ducks share a desktop crossed by sunbeams.",
+    "caption_es": "Un cardenal, un gato y unos patos comparten un escritorio iluminado por rayos de sol."
+  }
+}
